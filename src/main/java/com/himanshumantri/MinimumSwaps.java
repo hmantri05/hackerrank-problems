@@ -9,7 +9,7 @@ public class MinimumSwaps {
     	int noOfSwaps = 0;
     	int temp = -1;
     	for (int i = 0; i < arr.length; i++) {
-    		if (arr[i] == -1) {
+    		if (arr[i] == -1 || arr[i] - 1 == i) {
     			continue;
     		} else {
     			int j = i;
