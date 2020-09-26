@@ -3,7 +3,7 @@ package com.himanshumantri;
 
 /**
  * 
- * Check how many times wow occurs as a subsequence in a given string
+ * Check how many times a pattern occurs as a subsequence in a given string
  * @author mantri
  *
  */
