@@ -63,7 +63,7 @@ public class CountWows {
 	}
 
 	public static void main(String[] args) {
-		String str = "wwwow";
+		String str = "wwow";
 
 		System.out.println(countWowsRec(str, 0, 0, str.length()));
 		System.out.println(countWowsDP(str, pat));
