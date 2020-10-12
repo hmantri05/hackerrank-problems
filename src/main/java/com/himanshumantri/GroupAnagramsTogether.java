@@ -31,7 +31,7 @@ public class GroupAnagramsTogether {
     }
 
 	public static void main(String[] args) {
-		String[] strs = {"", ""};
+		String[] strs = {"eat","tea","tan","ate","nat","bat"};
 		
 		
 		System.out.println(groupAnagrams(strs));
